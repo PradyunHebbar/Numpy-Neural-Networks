@@ -1,2 +1,2 @@
-# Learning-Neural-Networks
-My Journey of mastering Neural Networks 
+# Numpy-Neural-Networks
+Neural networks only with numpy!
